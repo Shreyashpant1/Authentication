@@ -1,3 +1,11 @@
+this project is all about the authentication of the signup,login which is done by the user.It is a fullstackproject in NEXTJS.frontend is done through the typescript,html and css.in backend it uses the postman api in order to store the values of login and signup in the API key.
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
