@@ -1,0 +1,3 @@
+MONGO_URI=mongodb+srv://ShreyashPant:ShreyashPant@shreyash11234.kj164.mongodb.net/
+TOKEN_SECRET=nextjsproject
+DOMAIN=http://localhost:3000
